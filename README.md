@@ -46,10 +46,6 @@ Acredito que cada detalhe importa — seja na programação, na fé ou na vida. 
     <img width=130 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
   </div>
 </details>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=giiovannasantoss&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/giiovannasantoss/github-readme-activity-graph)
-
 <br>
 
 <picture>
