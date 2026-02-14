@@ -1,4 +1,6 @@
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=F0F6FC&size=30&font=Poppins&width=1000&lines=Oii,+eu+sou+a+Giovanna+Santos!">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:6C2BD9,100:E9D5FF"/>
+
+<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=F0F6FC&size=30&font=Poppins&width=1000&lines=Oii,+eu+sou+a+Giovanna+Santos!">
 
 <div>
   <img width=230 align='left' src="https://imgur.com/zeuHIk9.gif">
@@ -52,3 +54,5 @@ Acredito que cada detalhe importa — seja na programação, na fé ou na vida. 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giiovannasantoss/giiovannasantoss/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giiovannasantoss/giiovannasantoss/pacman-contribution-graph.svg">
 </picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:6C2BD9,100:E9D5FF"/>
