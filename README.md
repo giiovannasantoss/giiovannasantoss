@@ -3,7 +3,7 @@
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=F0F6FC&size=30&font=Poppins&width=1000&lines=Oii,+eu+sou+a+Giovanna+Santos!">
 
 <div>
-  <img width=300 align='left' src="https://imgur.com/zeuHIk9.gif">
+  <img width=250 align='left' src="https://imgur.com/zeuHIk9.gif">
   <p>
 Oii, eu sou a Giovanna Santos, tenho 16 anos e atualmente curso Análise e Desenvolvimento de Sistemas no Instituto J&F, no 2º ano do Ensino Médio. 
 
@@ -20,7 +20,8 @@ Estou construindo minha trajetória com curiosidade, determinação e propósito
 <hr>
 
 <p align=center>
-  <em><b>“A sua fé irá determinar o tamanho de seus sonhos a serem conquistados.”</b></em>
+  <b>“O sucesso é a soma de pequenos esforços repetidos dia após dia.”</b>
+  <em>— Robert Collier</em>
 </p>
 
 <hr>
