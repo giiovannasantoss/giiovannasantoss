@@ -1,26 +1,26 @@
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=F0F6FC&size=30&font=Poppins&width=1000&lines=Oii,+eu+sou+a+Giovanna+Santos!">
 
 <div>
-  <img width=250 align='left' src="https://imgur.com/zeuHIk9.gif">
+  <img width=230 align='left' src="https://imgur.com/zeuHIk9.gif">
   <p>
-Sou estudante de ADS no Instituto J&F e sou fascinada por tecnologia. Tenho conhecimento em diferentes áreas, mas minhas principais habilidades e afinidades estão na área de dados!
+Sou estudante de ADS no Instituto J&F e sou fascinada por tecnologia. Tenho conhecimento em diferentes áreas, mas minhas principais habilidades e afinidades estão na área de dados! 📊
 
-Além disso, sou guiada pela fé e pelo amor de Jesus, valorizando os pequenos detalhes que tornam a vida especial. Adoro gatos, gosto de aprender coisas novas, enfrentar mudanças e desafios, e estou sempre buscando evoluir — tanto profissionalmente quanto pessoalmente.
+Além disso, sou guiada pela fé e pelo amor de Jesus ✝️, valorizando os pequenos detalhes que tornam a vida especial. Adoro gatos 😺, gosto de aprender coisas novas, enfrentar mudanças e desafios, e estou sempre buscando evoluir — tanto profissionalmente quanto pessoalmente. 💡
 
-Acredito que cada detalhe importa — seja na programação, na fé ou na vida. Estou construindo minha jornada com propósito, dedicação e muita curiosidade!
+Acredito que cada detalhe importa — seja na programação, na fé ou na vida. Estou construindo minha jornada com propósito, dedicação e muita curiosidade! 🚀
 </p>
 </div>
 
 <hr>
 
 <p align=center>
-  <em><b>“A sua fé irá determinar o tamanho de seus sonhos a serem conquistados.”</b></em>
+  <em><b>✨ “A sua fé irá determinar o tamanho de seus sonhos a serem conquistados.” ✨</b></em>
 </p>
 
 <hr>
 
 <details>
-  <summary><h3> Habilidades técnicas </h3></summary>
+  <summary><h3> Habilidades técnicas 💻 </h3></summary>
   <div style="display: inline-block">
     <img width=80 src="https://img.icons8.com/?size=100&id=R8fxXpKxlp9v&format=png&color=FFFFFF" alt="css"/>
     <img width=80 src="https://img.icons8.com/?size=100&id=11566&format=png&color=FFFFFF" alt="excel" />
@@ -37,7 +37,7 @@ Acredito que cada detalhe importa — seja na programação, na fé ou na vida. 
 </details>
 
 <details>
-  <summary><h3> Estou aprendendo </h3></summary>
+  <summary><h3> Estou aprendendo 🌱 </h3></summary>
   <div style="display: inline-block">
     <img width=80 src="https://img.icons8.com/?size=100&id=39854&format=png&color=FFFFFF" alt="javascript"/>
     <img width=80 src="https://img.icons8.com/?size=100&id=WC9GOvjtKVuH&format=png&color=FFFFFF" alt="mongodb"/>
