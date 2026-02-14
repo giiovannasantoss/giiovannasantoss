@@ -1,18 +1,14 @@
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=F0F6FC&size=30&font=Poppins&width=1000&lines=Oii,+eu+sou+a+Giovanna+Santos!">
 
 <div>
-  <img width=300 align='left' src="https://imgur.com/zeuHIk9.gif">
-  <p>Sou estudante de ADS no Instituto J&F e sou fascinada por tecnologia. Entendo de tudo um pouco, mas minhas principais habilidades e afinidades estão na área de dados!
-    <br>
-    <br>
-    Além disso, sou guiada pela fé e pelo amor de Jesus, valorizando os pequenos detalhes que tornam a vida especial.
-    <br>
-    <br>
-    Adoro gatos, gosto de aprender coisas novas, enfrentar mudanças e desafios, e estou sempre buscando evoluir — tanto profissionalmente quanto pessoalmente.
-    <br>
-    <br>
-    Acredito que cada detalhe importa — seja na programação, na fé ou na vida. Estou construindo minha jornada com propósito, dedicação e muita curiosidade!
-  </p>
+  <img width=250 align='left' src="https://imgur.com/zeuHIk9.gif">
+  <p>
+Sou estudante de ADS no Instituto J&F e sou fascinada por tecnologia. Tenho conhecimento em diferentes áreas, mas minhas principais habilidades e afinidades estão na área de dados!
+
+Além disso, sou guiada pela fé e pelo amor de Jesus, valorizando os pequenos detalhes que tornam a vida especial. Adoro gatos, gosto de aprender coisas novas, enfrentar mudanças e desafios, e estou sempre buscando evoluir — tanto profissionalmente quanto pessoalmente.
+
+Acredito que cada detalhe importa — seja na programação, na fé ou na vida. Estou construindo minha jornada com propósito, dedicação e muita curiosidade!
+</p>
 </div>
 
 <hr>
@@ -48,3 +44,11 @@
     <img width=130 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
   </div>
 </details>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giiovannasantoss/giiovannasantoss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giiovannasantoss/giiovannasantoss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giiovannasantoss/giiovannasantoss/pacman-contribution-graph.svg">
+</picture>
