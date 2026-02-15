@@ -4,15 +4,13 @@
 <div>
   <h3>Sobre mim</h3>
   <p>
-  Oii, eu sou a Giovanna Santos, tenho 16 anos e atualmente curso Análise e Desenvolvimento de Sistemas no Instituto J&F, no 2º ano do Ensino Médio. 
-  
-  Sou apaixonada por tecnologia e por aprender novas linguagens. Entender como tudo funciona por trás das telas e transformar problemas em soluções eficientes é algo que me envolve e me desafia a pensar mais a fundo! Gosto de usar o raciocínio lógico, trabalhar com números e colocar meu conhecimento em prática para criar soluções funcionais.
-  
-  No meu dia a dia, tenho contato com diferentes áreas da tecnologia, mas minha verdadeira paixão está em Dados! Me interesso por Análise de Dados, Inteligência Artificial, Machine Learning e Automação, principalmente pela capacidade de transformar informação em estratégia. 
-  
-  Adoro gatos, gosto de aprender coisas novas, enfrentar desafios e mudanças, e estou sempre buscando evoluir — tanto tecnicamente quanto pessoalmente. 
-  
-  Estou construindo minha trajetória com curiosidade, determinação e propósito!
+  Oii, meu nome é Giovanna Santos, tenho 16 anos e curso Análise e Desenvolvimento de Sistemas no Instituto J&F, no 2º ano do Ensino Médio.
+
+Sou apaixonada por tecnologia e por aprender novas linguagens. Gosto de entender como tudo funciona por trás das telas e transformar problemas em soluções eficientes, utilizando raciocínio lógico e análise. Também gosto de aprender coisas novas, enfrentar desafios e adoro gatos.
+
+No meu dia a dia, tenho contato com diferentes áreas da tecnologia, mas minha verdadeira paixão está na área de Dados, com foco em Análise de Dados, Inteligência Artificial e Machine Learning.
+
+Estou construindo minha trajetória com curiosidade, determinação e propósito!
   </p>
 </div>
 
@@ -33,17 +31,18 @@
   <summary>
     <h3>💻 Habilidades técnicas</h3>
   </summary>
-  <div>
-    <img width=70 src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css"/>
+  <div> 
+    <img width=70 src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="pandas"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="postgresql"/>
     <img width=70 src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" alt="excel" />
-    <img width=70 src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma"/>
     <img width=70 src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" />
     <img width=70 src="https://img.icons8.com/?size=100&id=62856&format=png&color=FFFFFF" alt="github"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux"/>
     <img width=70 src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html"/>
-    <img width=70 src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java"/>
-    <img width=70 src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux"/>    
-    <img width=70 src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="postgresql"/>
-    <img width=70 src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma"/>
     <img width=120 src="https://github.com/anathayna/anathayna/blob/master/assets/tec-tec-tec.gif"/>
   </div>
 </details>
@@ -53,9 +52,9 @@
     <h3>🚀 Estou aprendendo</h3>
   </summary>
   <div>
-    <img width=70 src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000" alt="android studio"/>
-    <img width=70 src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="javascript"/>
     <img width=70 src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="mongodb"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="javascript"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000" alt="android studio"/>
     <img width=120 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
   </div>
 </details>
