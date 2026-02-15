@@ -2,10 +2,6 @@
 
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=F0F6FC&size=30&font=Poppins&width=1000&lines=Oii,+eu+sou+a+Giovanna+Santos!">
 
-<div align="center">
-  <img width=250 src="https://imgur.com/zeuHIk9.gif">
-</div>
-
 <div>
   <h3>Sobre mim</h3>
   <p>
@@ -20,6 +16,12 @@
   Estou construindo minha trajetória com curiosidade, determinação e propósito!
   </p>
 </div>
+
+<div align=center>
+  <img width=250 src="https://imgur.com/zeuHIk9.gif">
+</div>
+
+  
 
 <hr>
 
@@ -67,5 +69,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giiovannasantoss/giiovannasantoss/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giiovannasantoss/giiovannasantoss/pacman-contribution-graph.svg">
 </picture>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:6C2BD9,100:E9D5FF"/>
