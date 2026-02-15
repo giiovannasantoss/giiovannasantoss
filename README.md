@@ -34,16 +34,16 @@
     <h3>💻 Habilidades técnicas</h3>
   </summary>
   <div>
-    <img width=70 src="https://img.icons8.com/?size=100&id=R8fxXpKxlp9v&format=png&color=FFFFFF" alt="css"/>
-    <img width=70 src="https://img.icons8.com/?size=100&id=11566&format=png&color=FFFFFF" alt="excel" />
-    <img width=70 src="https://img.icons8.com/?size=100&id=GflC6KLkdd0Y&format=png&color=FFFFFF" alt="figma"/>
-    <img width=70 src="https://img.icons8.com/?size=100&id=38388&format=png&color=FFFFFF" alt="git" />
+    <img width=70 src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" alt="excel" />
+    <img width=70 src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="figma"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" />
     <img width=70 src="https://img.icons8.com/?size=100&id=62856&format=png&color=FFFFFF" alt="github"/>
-    <img width=70 src="https://img.icons8.com/?size=100&id=UZiBKP0nRDtx&format=png&color=FFFFFF" alt="html"/>
-    <img width=70 src="https://img.icons8.com/?size=100&id=nws8ugAus82f&format=png&color=FFFFFF" alt="java"/>
-    <img width=70 src="https://img.icons8.com/?size=100&id=37823&format=png&color=FFFFFF" alt="linux"/>    
-    <img width=70 src="https://img.icons8.com/?size=100&id=25010&format=png&color=FFFFFF" alt="postgresql"/>
-    <img width=70 src="https://img.icons8.com/?size=100&id=12584&format=png&color=FFFFFF" alt="python"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux"/>    
+    <img width=70 src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="postgresql"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python"/>
     <img width=120 src="https://github.com/anathayna/anathayna/blob/master/assets/tec-tec-tec.gif"/>
   </div>
 </details>
@@ -53,9 +53,9 @@
     <h3>🚀 Estou aprendendo</h3>
   </summary>
   <div>
-    <img width=70 src="https://img.icons8.com/?size=100&id=YWZEnr62tgb1&format=png&color=FFFFFF" alt="android studio"/>
-    <img width=70 src="https://img.icons8.com/?size=100&id=39853&format=png&color=FFFFFF" alt="javascript"/>
-    <img width=70 src="https://img.icons8.com/?size=100&id=OdTjgPoHJeaK&format=png&color=FFFFFF" alt="mongodb"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=EgOU93v1DHjU&format=png&color=000000" alt="android studio"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="javascript"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="mongodb"/>
     <img width=120 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
   </div>
 </details>
