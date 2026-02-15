@@ -2,20 +2,25 @@
 
 <img width=100% src="https://readme-typing-svg.herokuapp.com/?color=F0F6FC&size=30&font=Poppins&width=1000&lines=Oii,+eu+sou+a+Giovanna+Santos!">
 
-<div>
-  <img width=250 align='left' src="https://imgur.com/zeuHIk9.gif">
-  <p>
-Oii, eu sou a Giovanna Santos, tenho 16 anos e atualmente curso Análise e Desenvolvimento de Sistemas no Instituto J&F, no 2º ano do Ensino Médio. 
-
-Sou apaixonada por tecnologia e por aprender novas linguagens. Entender como tudo funciona por trás das telas e transformar problemas em soluções eficientes é algo que me envolve e me desafia a pensar mais a fundo. Gosto de usar o raciocínio lógico, trabalhar com números e colocar meu conhecimento em prática para criar soluções funcionais.
-
-No meu dia a dia, tenho contato com diferentes áreas da tecnologia, mas minha verdadeira paixão está em Dados. Me interesso por Análise de Dados, Inteligência Artificial, Machine Learning e Automação, principalmente pela capacidade de transformar informação em estratégia. 
-
-Adoro gatos, gosto de aprender coisas novas, enfrentar desafios e mudanças, e estou sempre buscando evoluir — tanto tecnicamente quanto pessoalmente. 
-
-Estou construindo minha trajetória com curiosidade, determinação e propósito!
-</p>
-</div>
+<table>
+  <td>
+    <img width=250 align='left' src="https://imgur.com/zeuHIk9.gif">
+  </td>
+  <td>
+    <h3>Sobre mim</h3>
+    <p>
+  Oii, eu sou a Giovanna Santos, tenho 16 anos e atualmente curso Análise e Desenvolvimento de Sistemas no Instituto J&F, no 2º ano do Ensino Médio. 
+  
+  Sou apaixonada por tecnologia e por aprender novas linguagens. Entender como tudo funciona por trás das telas e transformar problemas em soluções eficientes é algo que me envolve e me desafia a pensar mais a fundo! Gosto de usar o raciocínio lógico, trabalhar com números e colocar meu conhecimento em prática para criar soluções funcionais.
+  
+  No meu dia a dia, tenho contato com diferentes áreas da tecnologia, mas minha verdadeira paixão está em Dados! Me interesso por Análise de Dados, Inteligência Artificial, Machine Learning e Automação, principalmente pela capacidade de transformar informação em estratégia. 
+  
+  Adoro gatos, gosto de aprender coisas novas, enfrentar desafios e mudanças, e estou sempre buscando evoluir — tanto tecnicamente quanto pessoalmente. 
+  
+  Estou construindo minha trajetória com curiosidade, determinação e propósito!
+    </p>
+  </td>
+</table>
 
 <hr>
 
@@ -27,7 +32,9 @@ Estou construindo minha trajetória com curiosidade, determinação e propósito
 <hr>
 
 <details>
-  <summary><h3> 💻 Habilidades técnicas </h3></summary>
+  <summary>
+    <h3> 💻 Habilidades técnicas </h3>
+  </summary>
   <div style="display: inline-block">
     <img width=80 src="https://img.icons8.com/?size=100&id=R8fxXpKxlp9v&format=png&color=FFFFFF" alt="css"/>
     <img width=80 src="https://img.icons8.com/?size=100&id=11566&format=png&color=FFFFFF" alt="excel" />
@@ -44,7 +51,9 @@ Estou construindo minha trajetória com curiosidade, determinação e propósito
 </details>
 
 <details>
-  <summary><h3> 🌱 Estou aprendendo </h3></summary>
+  <summary>
+    <h3> 🌱 Estou aprendendo </h3>
+  </summary>
   <div style="display: inline-block">
     <img width=80 src="https://img.icons8.com/?size=100&id=YWZEnr62tgb1&format=png&color=FFFFFF" alt="android studio"/>
     <img width=80 src="https://img.icons8.com/?size=100&id=39853&format=png&color=FFFFFF" alt="javascript"/>
