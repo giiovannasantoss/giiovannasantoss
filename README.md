@@ -1,6 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:6C2BD9,100:E9D5FF"/>
-
-<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=F0F6FC&size=30&font=Poppins&width=1000&lines=Oii,+eu+sou+a+Giovanna+Santos!">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:6C2BD9,100:E9D5FF"/>
+<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=F0F6FC&size=30&font=Poppins&width=1000&lines=Bem-vindo(a)+ao+meu+portfólio!">
 
 <div>
   <h3>Sobre mim</h3>
@@ -18,10 +17,8 @@
 </div>
 
 <div align=center>
-  <img width=250 src="https://imgur.com/zeuHIk9.gif">
+  <img width=200 src="https://imgur.com/zeuHIk9.gif">
 </div>
-
-  
 
 <hr>
 
@@ -34,32 +31,32 @@
 
 <details>
   <summary>
-    <h3> 💻 Habilidades técnicas </h3>
+    <h3>💻 Habilidades técnicas</h3>
   </summary>
   <div>
-    <img width=60 src="https://img.icons8.com/?size=100&id=R8fxXpKxlp9v&format=png&color=FFFFFF" alt="css"/>
-    <img width=60 src="https://img.icons8.com/?size=100&id=11566&format=png&color=FFFFFF" alt="excel" />
-    <img width=60 src="https://img.icons8.com/?size=100&id=GflC6KLkdd0Y&format=png&color=FFFFFF" alt="figma"/>
-    <img width=60 src="https://img.icons8.com/?size=100&id=38388&format=png&color=FFFFFF" alt="git" />
-    <img width=60 src="https://img.icons8.com/?size=100&id=62856&format=png&color=FFFFFF" alt="github"/>
-    <img width=60 src="https://img.icons8.com/?size=100&id=UZiBKP0nRDtx&format=png&color=FFFFFF" alt="html"/>
-    <img width=60 src="https://img.icons8.com/?size=100&id=nws8ugAus82f&format=png&color=FFFFFF" alt="java"/>
-    <img width=60 src="https://img.icons8.com/?size=100&id=37823&format=png&color=FFFFFF" alt="linux"/>    
-    <img width=60 src="https://img.icons8.com/?size=100&id=25010&format=png&color=FFFFFF" alt="postgresql"/>
-    <img width=60 src="https://img.icons8.com/?size=100&id=12584&format=png&color=FFFFFF" alt="python"/>
-    <img width=110 src="https://github.com/anathayna/anathayna/blob/master/assets/tec-tec-tec.gif"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=R8fxXpKxlp9v&format=png&color=FFFFFF" alt="css"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=11566&format=png&color=FFFFFF" alt="excel" />
+    <img width=70 src="https://img.icons8.com/?size=100&id=GflC6KLkdd0Y&format=png&color=FFFFFF" alt="figma"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=38388&format=png&color=FFFFFF" alt="git" />
+    <img width=70 src="https://img.icons8.com/?size=100&id=62856&format=png&color=FFFFFF" alt="github"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=UZiBKP0nRDtx&format=png&color=FFFFFF" alt="html"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=nws8ugAus82f&format=png&color=FFFFFF" alt="java"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=37823&format=png&color=FFFFFF" alt="linux"/>    
+    <img width=70 src="https://img.icons8.com/?size=100&id=25010&format=png&color=FFFFFF" alt="postgresql"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=12584&format=png&color=FFFFFF" alt="python"/>
+    <img width=120 src="https://github.com/anathayna/anathayna/blob/master/assets/tec-tec-tec.gif"/>
   </div>
 </details>
 
 <details>
   <summary>
-    <h3> 🌱 Estou aprendendo </h3>
+    <h3>🚀 Estou aprendendo</h3>
   </summary>
   <div>
-    <img width=60 src="https://img.icons8.com/?size=100&id=YWZEnr62tgb1&format=png&color=FFFFFF" alt="android studio"/>
-    <img width=60 src="https://img.icons8.com/?size=100&id=39853&format=png&color=FFFFFF" alt="javascript"/>
-    <img width=60 src="https://img.icons8.com/?size=100&id=OdTjgPoHJeaK&format=png&color=FFFFFF" alt="mongodb"/>
-    <img width=110 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+    <img width=70 src="https://img.icons8.com/?size=100&id=YWZEnr62tgb1&format=png&color=FFFFFF" alt="android studio"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=39853&format=png&color=FFFFFF" alt="javascript"/>
+    <img width=70 src="https://img.icons8.com/?size=100&id=OdTjgPoHJeaK&format=png&color=FFFFFF" alt="mongodb"/>
+    <img width=120 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
   </div>
 </details>
 <br>
