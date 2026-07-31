@@ -1,11 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:6C2BD9,100:E9D5FF"/>
-<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=F0F6FC&size=30&font=Poppins&width=1000&lines=Bem-vindo(a)+ao+meu+portfólio!">
+<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=F0F6FC&size=30&font=Poppins&width=1000&lines=Oii,+eu+sou+a+Giovanna+Santos!">
 
 <div>
   <h3>Sobre mim</h3>
   <p>
-  Oii, meu nome é Giovanna Santos, tenho 16 anos e curso Análise e Desenvolvimento de Sistemas no Instituto J&F, no 2º ano do Ensino Médio.
-
 Sou apaixonada por tecnologia e por aprender novas linguagens. Gosto de entender como tudo funciona por trás das telas e transformar problemas em soluções eficientes, utilizando raciocínio lógico e análise. Também gosto de aprender coisas novas, enfrentar desafios e adoro gatos.
 
 No meu dia a dia, tenho contato com diferentes áreas da tecnologia, mas minha verdadeira paixão está na área de Dados, com foco em Análise de Dados, Inteligência Artificial e Machine Learning.
